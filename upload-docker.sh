@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath="sabbir33/capstone-app"
+dockerpath="Venuv123/Devoops"
 
 
 # Step 2:  
